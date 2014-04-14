@@ -65,6 +65,10 @@ shelter by storing and manipulating information about clients and animals.
 	- A client should be able to adopt an animal.
 	- A client should be able to put an animal up for adoption
 
+#####Phase 0
+
+- Type `gem install coveralls` in your terminal
+
 #####Phase 1
 - Create your Animal and Cient classes **(one at a time)**
   - Your specs will tell you what methods are expected in each class
